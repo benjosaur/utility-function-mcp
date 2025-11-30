@@ -176,6 +176,9 @@ with gr.Blocks(title="EV Utility Function Calculator") as demo:
 
     This tool calculates utility scores for electric vehicles based on user preferences.
     User preferences are stored in Upstash Redis with their trained coefficients.
+                
+    **Train your own function here**
+    https://autofinder.onrender.com
 
     **Note:** If a user_id is not found, default coefficients will be used.
     """)
@@ -237,7 +240,7 @@ with gr.Blocks(title="EV Utility Function Calculator") as demo:
     This tool is also available as an MCP (Model Context Protocol) server that can be used with Claude Desktop
     and other MCP-compatible clients.
 
-    **Repository:** [GitHub Link]
+    **Repository:** https://github.com/MJ141592/AutoFinder
 
     ### How it works:
 

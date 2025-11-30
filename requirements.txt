@@ -1,4 +1,0 @@
-gradio>=5.0.0
-upstash-redis>=1.1.1
-python-dotenv>=1.0.0
-mcp>=1.0.0
