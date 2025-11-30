@@ -18,6 +18,9 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 
 An MCP (Model Context Protocol) server that provides utility function calculations for electric vehicles based on user preferences. Contributors: benjosaur, reuzed, MJ141592
 
+**Train your own function here**
+https://autofinder.onrender.com
+
 Demo:
 https://drive.google.com/file/d/1Z-PoQgvLaEBnhMk8nwrKOnRj8sOKz-QH/view?usp=sharing
 

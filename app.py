@@ -179,6 +179,12 @@ with gr.Blocks(title="EV Utility Function Calculator") as demo:
                 
     **Train your own function here**
     https://autofinder.onrender.com
+                
+    Demo:
+    https://drive.google.com/file/d/1Z-PoQgvLaEBnhMk8nwrKOnRj8sOKz-QH/view?usp=sharing
+
+    Ig Social Media Post:
+    https://www.instagram.com/p/DRsxbbWCl0m/?img_index=6&igsh=MWoxc3ZrOTM2ZWxhbA==
 
     **Note:** If a user_id is not found, default coefficients will be used.
     """)
