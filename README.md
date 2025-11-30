@@ -8,13 +8,21 @@ sdk_version: 6.0.1
 app_file: app.py
 pinned: false
 license: mit
+tags:
+  - building-mcp-track-consumer
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
 # EV Utility Function MCP Server
 
-An MCP (Model Context Protocol) server that provides utility function calculations for electric vehicles based on user preferences.
+An MCP (Model Context Protocol) server that provides utility function calculations for electric vehicles based on user preferences. Contributors: benjosaur, reuzed, MJ141592
+
+Demo:
+https://drive.google.com/file/d/1Z-PoQgvLaEBnhMk8nwrKOnRj8sOKz-QH/view?usp=sharing
+
+Ig Social Media Post:
+https://www.instagram.com/p/DRsxbbWCl0m/?img_index=6&igsh=MWoxc3ZrOTM2ZWxhbA==
 
 ## Features
 
