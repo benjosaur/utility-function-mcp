@@ -257,4 +257,4 @@ with gr.Blocks(title="EV Utility Function Calculator") as demo:
     """)
 
 if __name__ == "__main__":
-    demo.launch()
+    demo.launch(mcp_server=True)
